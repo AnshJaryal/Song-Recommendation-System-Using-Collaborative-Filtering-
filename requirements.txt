@@ -1,0 +1,7 @@
+pandas 
+numpy 
+lightfm 
+yt-dlp
+python-vlc
+scipy
+pickle

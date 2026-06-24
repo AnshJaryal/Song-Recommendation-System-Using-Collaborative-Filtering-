@@ -1,0 +1,6 @@
+Data
+venv
+.env
+scripts/testy.py
+scripts/test_model.ipynb
+Main_data
